@@ -2,7 +2,7 @@
 
 
 
-Code for our paper: 
+Code for our AJCAI 2020 paper: 
 
 **"Online Semi-Supervised Learning in Contextual Bandits with Episodic Reward"** 
 
@@ -45,11 +45,12 @@ by Baihan Lin, Dec 2019
 
 If you find this work helpful, please try out the models and cite our works. Thanks!
 
-    @article{lin2020online,
+    @inproceedings{lin2020semi,
       title={Online Semi-Supervised Learning in Contextual Bandits with Episodic Reward},
       author={Lin, Baihan},
-      journal={arXiv preprint arXiv:},
-      year={2020}
+      booktitle={Australasian Joint Conference on Artificial Intelligence},
+      year={2020},
+      organization={Springer}
     }
 
 
