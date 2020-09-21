@@ -6,7 +6,7 @@ Code for our AJCAI 2020 paper:
 
 **"Online Semi-Supervised Learning in Contextual Bandits with Episodic Reward"** 
 
-by [Baihan Lin](http://www.columbia.edu/~bl2681/) (Columbia, UW).
+by [Baihan Lin](https://www.baihan.nyc/) (Columbia).
 
 
 
