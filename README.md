@@ -10,7 +10,7 @@ by [Baihan Lin](http://www.columbia.edu/~bl2681/) (Columbia, UW).
 
 
 
-For the latest full paper: https://arxiv.org/abs/
+For the latest full paper: https://arxiv.org/abs/2009.08457
 
 
 
